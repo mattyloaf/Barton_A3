@@ -1,0 +1,15 @@
+﻿  PluginProcessor.cpp
+c:\users\home\desktop\software\barton_a3\source\plugineditor.h(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\home\desktop\software\barton_a3\source\plugineditor.h(35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(86): warning C4100: 'index': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(90): warning C4100: 'index': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(95): warning C4100: 'newName': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(95): warning C4100: 'index': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(100): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(187): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(146): warning C4100: 'midiMessages': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(213): warning C4100: 'destData': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(220): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\home\desktop\software\barton_a3\source\pluginprocessor.cpp(220): warning C4100: 'data': unreferenced formal parameter
+  Barton_A3_SharedCode.vcxproj -> C:\Users\Home\Desktop\Software\Barton_A3\Builds\VisualStudio2017\x64\Debug\Shared Code\Barton_A3.lib
